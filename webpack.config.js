@@ -1,6 +1,6 @@
 module.exports = {
     output: {
-        filename: 'app.js'
+        filename: 'main.js'
     },
     module: {
         rules: [

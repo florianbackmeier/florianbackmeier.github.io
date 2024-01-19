@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "build": "webpack --mode development && cp node_modules/react/umd/react.development.js dist && cp node_modules/react-dom/umd/react-dom.development.js dist"
+    "build": "webpack --mode development"
   },
   "author": "",
   "license": "ISC",
